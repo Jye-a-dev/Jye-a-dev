@@ -2,7 +2,7 @@ name: Auto Update GitHub Stats
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # mỗi 10 phút
+    - cron: "*/30 * * * *" # 30 phút cho nhẹ
   workflow_dispatch:
 
 permissions:
@@ -13,16 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install deps
-        run: npm install axios
+      - run: npm install axios
 
       - name: Generate stats
         env:

@@ -1,9 +1,8 @@
 const fs = require("fs");
 const axios = require("axios");
 
-/** 🔴 ĐỔI USERNAME Ở ĐÂY */
-const USERNAME = "YOUR_GITHUB_USERNAME";
-
+/** ✅ USERNAME */
+const USERNAME = "Jye-a-dev";
 const TOKEN = process.env.GITHUB_TOKEN;
 
 async function main() {
@@ -28,21 +27,21 @@ async function main() {
   );
 
   const svg = `
-<svg width="420" height="160" viewBox="0 0 420 160"
+<svg width="480" height="180" viewBox="0 0 480 180"
   xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #0d1117 }
     .t { fill: #c9d1d9; font-family: monospace; font-size: 14px }
-    .h { font-size: 16px; font-weight: bold }
+    .h { font-size: 18px; font-weight: bold }
   </style>
 
-  <rect width="100%" height="100%" rx="12" class="bg"/>
+  <rect width="100%" height="100%" rx="14" class="bg"/>
 
-  <text x="20" y="30" class="t h">GitHub Stats</text>
-  <text x="20" y="60" class="t">👤 User: ${USERNAME}</text>
-  <text x="20" y="85" class="t">📦 Repos: ${user.data.public_repos}</text>
-  <text x="20" y="110" class="t">⭐ Stars: ${totalStars}</text>
-  <text x="20" y="135" class="t">👥 Followers: ${user.data.followers}</text>
+  <text x="20" y="32" class="t h">GitHub Stats</text>
+  <text x="20" y="65" class="t">👤 User: ${USERNAME}</text>
+  <text x="20" y="90" class="t">📦 Public Repos: ${user.data.public_repos}</text>
+  <text x="20" y="115" class="t">⭐ Total Stars: ${totalStars}</text>
+  <text x="20" y="140" class="t">👥 Followers: ${user.data.followers}</text>
 </svg>
 `;
 
