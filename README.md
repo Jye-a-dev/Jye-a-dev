@@ -29,7 +29,7 @@
   />
   <img
     width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jye-a-dev&layout=compact&langs_count=40&layout=donut&hide=mdx,ejs&bg_color=DEG,36d1dc,5b86e5&title_color=ffffff&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jye-a-dev&layout=compact&langs_count=40&hide=mdx,ejs&bg_color=DEG,36d1dc,5b86e5&title_color=ffffff&text_color=ffffff"
   />
 </p>
 
