@@ -25,11 +25,11 @@
 <p align="center">
   <img
     width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jye-a-dev&layout=donut&hide=mdx,ejs&langs_count=30&bg_color=DEG,ff4b2b,ff416c&title_color=ffffff&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jye-a-dev&layout=donut&langs_count=30&bg_color=DEG,ff4b2b,ff416c&title_color=ffffff&text_color=ffffff"
   />
   <img
     width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jye-a-dev&layout=compact&langs_count=40&hide=mdx,ejs&bg_color=DEG,36d1dc,5b86e5&title_color=ffffff&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jye-a-dev&layout=compact&langs_count=40&bg_color=DEG,36d1dc,5b86e5&title_color=ffffff&text_color=ffffff"
   />
 </p>
 
