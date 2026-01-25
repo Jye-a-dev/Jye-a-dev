@@ -1,0 +1,38 @@
+name: Auto Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "*/10 * * * *" # mỗi 10 phút
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm install axios
+
+      - name: Generate stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-stats.js
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add stats/github-stats.svg
+          git commit -m "chore: update github stats" || exit 0
+          git push
