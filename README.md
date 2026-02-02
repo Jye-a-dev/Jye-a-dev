@@ -13,7 +13,7 @@
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jye-a-dev&theme=radical&cache_seconds=1800"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jye-a-dev&theme=radical"
     width="48%"
     alt="GitHub Streak"
   />
