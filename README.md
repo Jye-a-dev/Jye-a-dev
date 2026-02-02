@@ -8,31 +8,26 @@
 <!-- 🔹 GitHub Overall Stats -->
 <p align="center">
   <img
-    src="https://github-readme-stats-jye.vercel.app/api?username=Jye-a-dev&show_icons=true&count_private=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Jye-a-dev&show_icons=true&count_private=true&theme=radical&cache_seconds=1800"
     width="48%"
-    alt="GitHub Stats"
   />
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Jye-a-dev&theme=radical"
-  width="48%"
-  alt="GitHub Streak"
-/>
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jye-a-dev&theme=radical&cache_seconds=1800"
+    width="48%"
+  />
 </p>
 
-<!-- 🔹 Top Languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats-jye.vercel.app/api/top-langs/?username=Jye-a-dev&layout=donut&langs_count=20&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jye-a-dev&layout=donut&langs_count=20&theme=radical&cache_seconds=1800"
     width="40%"
-    alt="Top Languages Donut"
   />
   <img
-    src="https://github-readme-stats-jye.vercel.app/api/top-langs/?username=Jye-a-dev&layout=compact&langs_count=20&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jye-a-dev&layout=compact&langs_count=20&theme=radical&cache_seconds=1800"
     width="45%"
-    alt="Top Languages Compact"
   />
 </p>
+
 
 ---
 
