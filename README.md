@@ -12,12 +12,6 @@
     width="48%"
     alt="GitHub Stats"
   />
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Jye-a-dev&theme=radical&v=1"
-  width="48%"
-  alt="GitHub Streak"
-/>
-
 </p>
 
 
