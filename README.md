@@ -39,7 +39,7 @@
 
 ### 🛠 Kỹ năng & Công nghệ
 - 💻 **Ngôn ngữ:** `JavaScript` · `TypeScript` · `Python` · `PHP`
-- ⚙️ **Framework:** `React` · `Express` · `Next.js`
+- ⚙️ **Framework:** `React` · `Express` · `Next.js` . `Node.js`
 - 🗄 **Database:** `MySQL` · `MSSQL` · `MongoDB`
 - 📘 **Có nền tảng:** `C#` · `Java`
 
@@ -52,9 +52,9 @@
 
 ### 🛠 Skills
 - 💻 Languages: `JavaScript` · `TypeScript` · `Python` · `PHP`
-- ⚙️ Frameworks: `React` · `Express` · `Next.js`
+- ⚙️ Frameworks: `React` · `Express` · `Next.js` . `Node.js`
 - 🗄 Databases: `MySQL` · `MSSQL` · `MongoDB`
-
+- 📘 Based: `C#` · `Java`
 ---
 
 ⭐ *Thanks for visiting my GitHub profile!*
