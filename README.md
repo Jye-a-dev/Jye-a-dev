@@ -42,6 +42,7 @@
 - ⚙️ **Framework:** `React` · `Express` · `Next.js` . `Node.js`
 - 🗄 **Database:** `MySQL` · `MSSQL` · `MongoDB`
 - 📘 **Có nền tảng:** `C#` · `Java`
+- **Platform:** `Web` . `Mobile (Sắp tới)` . `Desktop`
 
 ---
 
@@ -55,6 +56,7 @@
 - ⚙️ Frameworks: `React` · `Express` · `Next.js` . `Node.js`
 - 🗄 Databases: `MySQL` · `MSSQL` · `MongoDB`
 - 📘 Based: `C#` · `Java`
+- **Platform:** `Web` . `Mobile (Upcoming)` . `Desktop`
 ---
 
 ⭐ *Thanks for visiting my GitHub profile!*
