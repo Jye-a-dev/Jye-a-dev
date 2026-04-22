@@ -17,12 +17,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-jye.vercel.app/api/top-langs/?username=Jye-a-dev&layout=donut&langs_count=20&theme=radical&cache_seconds=1000"
+    src="https://github-readme-stats-jye.vercel.app/api/top-langs/?username=Jye-a-dev&layout=donut&langs_count=50&theme=radical&cache_seconds=1000"
     width="40%"
     alt="Top Languages Donut"
   />
   <img
-    src="https://github-readme-stats-jye.vercel.app/api/top-langs/?username=Jye-a-dev&layout=compact&langs_count=20&theme=radical&cache_seconds=1000"
+    src="https://github-readme-stats-jye.vercel.app/api/top-langs/?username=Jye-a-dev&layout=compact&langs_count=50&theme=radical&cache_seconds=1000"
     width="45%"
     alt="Top Languages Compact"
   />
