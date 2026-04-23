@@ -9,7 +9,7 @@
 <p align="center">
   <img
     src="https://github-readme-stats-jye.vercel.app/api?username=Jye-a-dev&show_icons=true&count_private=true&theme=radical&cache_seconds=1000"
-    width="48%"
+    width="75%"
     alt="GitHub Stats"
   />
 </p>
@@ -18,12 +18,12 @@
 <p align="center">
   <img
     src="https://github-readme-stats-jye.vercel.app/api/top-langs/?username=Jye-a-dev&layout=donut&langs_count=50&theme=radical&cache_seconds=1000"
-    width="40%"
+    width="49%"
     alt="Top Languages Donut"
   />
   <img
     src="https://github-readme-stats-jye.vercel.app/api/top-langs/?username=Jye-a-dev&layout=compact&langs_count=50&theme=radical&cache_seconds=1000"
-    width="45%"
+    width="50%"
     alt="Top Languages Compact"
   />
 </p>
