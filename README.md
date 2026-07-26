@@ -2,8 +2,8 @@
 🎓 **Year 2 Student | IT – Fullstack Software Engineer**
 
 <p align="center">
-  <!-- Visitor Count -->
-  <img src="https://profile-counter.glitch.me/Jye-a-dev/count.svg" alt="Visitor Count" />
+  <!-- Visitor Counter mới (Mojo-Counter) -->
+  <img src="https://komarev.com/ghpvc/?username=Jye-a-dev&color=7f5af0&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
 <p align="center">
