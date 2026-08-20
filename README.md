@@ -1,5 +1,5 @@
 # 👋 Nguyễn Việt Duy Khoa (aka **Jye**)
-🎓 **Year 2 Student | IT – Fullstack Software Engineer**
+🎓 **Year 3 Student | IT – Fullstack Software Engineer**
 
 <p align="center">
   <!-- Visitor Counter mới (Mojo-Counter) -->
