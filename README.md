@@ -40,7 +40,7 @@
 ---
 
 ## 🇻🇳 Thông tin cá nhân
-🧾 **Giới thiệu:** Nguyễn Việt Duy Khoa (Jye), sinh viên năm 2 CNTT, định hướng Fullstack – Software Engineer  
+🧾 **Giới thiệu:** Nguyễn Việt Duy Khoa (Jye), sinh viên năm 3 CNTT, định hướng Fullstack – Software Engineer  
 🏫 **Học vấn:** Đại học Văn Lang – Công nghệ Thông tin  
 📅 **Sinh nhật:** 09/09 · 📍 Hóc Môn, TP.HCM  
 
@@ -54,7 +54,7 @@
 ---
 
 ## 🇬🇧 About Me
-🧾 **Introduction:** Second-year IT student aiming for Fullstack – Software Engineer  
+🧾 **Introduction:** Third-year IT student aiming for Fullstack – Software Engineer  
 🎓 **Education:** Van Lang University – Information Technology  
 📍 **Location:** Hoc Mon, Ho Chi Minh City, Vietnam  
 
